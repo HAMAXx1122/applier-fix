@@ -1,1 +1,1 @@
-# apply-team
+# discord-application-bot
