@@ -1,1 +1,1 @@
-worker: node applier.js
+worker: node apply.js
